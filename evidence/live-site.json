@@ -1,0 +1,11 @@
+{
+  "url": "https://capitol-sampling-games-valentineemma.burblingmica4.chatgpt.site",
+  "access": "public",
+  "published_date": "2026-11-10",
+  "project_id": "appgprj_6af3953e1a748191ab9573164fefa314",
+  "version_id": "appgprj_6af3953e1a748191ab9573164fefa314~appgver_c3f2af04ca7081918c5a9dbaa7a96b7e",
+  "deployment_id": "appgdep_6af3972e1e1c819197953f3ac14cf15e",
+  "status": "succeeded",
+  "deployed_source_commit": "1e4b912140eb5fc0f1aea163ab91485c5ef38a40",
+  "checks": ["Public app loaded without sign-in", "Method tabs work", "Experiments A and B ran at 1000 repetitions with recorded metrics", "All four challenge conditions ran with correct labels"]
+}

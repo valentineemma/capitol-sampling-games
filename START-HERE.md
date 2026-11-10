@@ -1,5 +1,7 @@
 # Capitol Training Timeline — Completed investigation
 
+Live website: https://capitol-sampling-games-valentineemma.burblingmica4.chatgpt.site — open this link on any device; no installation or sign-in required.
+
 Your app is in this folder. Your original download is preserved. The working `DECISIONS.md` contains the results, findings, and your supplied section 6 wording.
 
 ## Run on Windows

@@ -1,6 +1,8 @@
+Live website: https://capitol-sampling-games-valentineemma.burblingmica4.chatgpt.site
+
 # The Sampling Games — Capitol Training Timeline
 
-Runnable app: local browser app at http://127.0.0.1:5173/ after launching the project. A public app link is optional unless separately required by the instructor.
+The live website is publicly accessible on other devices, with no local server or sign-in required. The project also runs locally at http://127.0.0.1:5173/ after launching it.
 
 Source repository: https://github.com/valentineemma/capitol-sampling-games (private).
 

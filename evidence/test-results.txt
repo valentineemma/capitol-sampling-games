@@ -1,0 +1,27 @@
+
+> capitol-training-timeline@1.0.0 test
+> node --test
+
+✔ bias, population-divisor SD and RMSE match hand calculations (1.0399ms)
+✔ exact systematic enumeration visits every possible start once, without seeds (1.4387ms)
+✔ Monte Carlo repetitions are reproducible, with correct counts and metric identity (9.504ms)
+✔ rank cycling preserves values, membership, source data and mean for non-divisor periods too (59.8103ms)
+✔ challenge has four equal-n conditions evaluated against their own truths and recalculates interval design (4.3692ms)
+✔ comparison reuses SRS n=100 between experiments A and B (8.281ms)
+✔ supplied data parses with chronological timestamps, missing-time gaps, and finite targets (6.0286ms)
+✔ simple random sample has n distinct original rows and reproduces with same seed (28.6712ms)
+✔ means agree with known answers and checked population value (0.7179ms)
+✔ day zoom partitions the population and sample without changing global means or selection (3.4782ms)
+✔ systematic selection follows integer and fractional starts including endpoints (44.3174ms)
+✔ systematic fractional selection never crosses bounds over all sizes on small populations (10.0328ms)
+✔ stratified allocation respects totals, minimums, capacity and deterministic alphabetical ties (6.3936ms)
+✔ stratified weighted estimate uses population weights, not pooled sample mean (13.754ms)
+✔ shared draw interface and zoom retain the selected method estimate and rows (12.125ms)
+ℹ tests 15
+ℹ suites 0
+ℹ pass 15
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 322.6129
